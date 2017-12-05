@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a6dbced0e30eb6c41a8743e674fb4488
+timeCreated: 1511193520
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Crimes Times Six
+  fontNames:
+  - Crimes Times Six
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

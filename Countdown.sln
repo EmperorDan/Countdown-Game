@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Countdown", "Countdown.csproj", "{56A3C500-3ACB-4A0D-635B-40547E05BA0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Countdown.Editor", "Countdown.Editor.csproj", "{88FDA782-EA7E-C1EB-6A75-CE3A359CFF53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56A3C500-3ACB-4A0D-635B-40547E05BA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A3C500-3ACB-4A0D-635B-40547E05BA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A3C500-3ACB-4A0D-635B-40547E05BA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A3C500-3ACB-4A0D-635B-40547E05BA0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88FDA782-EA7E-C1EB-6A75-CE3A359CFF53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FDA782-EA7E-C1EB-6A75-CE3A359CFF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FDA782-EA7E-C1EB-6A75-CE3A359CFF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FDA782-EA7E-C1EB-6A75-CE3A359CFF53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
