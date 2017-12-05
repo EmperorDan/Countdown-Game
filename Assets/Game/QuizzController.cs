@@ -59,7 +59,7 @@ namespace Game {
             o.GetComponentInChildren<Text>().text = letter.ToString().ToUpper();
             UpdatePicksTries();
             if (_letterPool.IsFull) {
-                // Fire event, end of picking
+                // TODO:: Fire event, end of picking
                 header.SetActive(false);
                 _timer.enabled = true;
                 TimerContainer.SetActive(true);
